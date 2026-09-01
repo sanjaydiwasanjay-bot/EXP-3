@@ -63,6 +63,9 @@ Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
+# OUTPUT 
+<img width="1600" height="1000" alt="WhatsApp Image 2026-09-01 at 4 33 15 PM" src="https://github.com/user-attachments/assets/2711ed88-cf71-4f68-bf26-8c0cdad6da09" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-09-01 at 4 33 15 PM" src="https://github.com/user-attachments/assets/18d049ed-15a8-4f7f-a867-289645bdf05c" />
 
 # RESULT : 
 
